@@ -1,0 +1,30 @@
+exports.jobs = {
+	'ES' : [
+		'DESARROLLADOR',
+		'CONTADOR',
+		'GERENTE',
+		'VENDEDOR',
+		'SECRETARIO',
+		'ASESOR',
+		'ASEADOR',
+		'CONSTRUCTOR',
+		'INSPECTOR',
+		'REPARTIDOR',
+		'COMERCIANTE',
+		'ABOGADO'
+	],
+	'EN' : [
+		'DEVELOPER',
+		'COUNTER',
+		'MANAGER',
+		'SELLER',
+		'SECRETARY',
+		'ADVISER',
+		'GROOMER',
+		'BUILDER',
+		'INSPECTOR',
+		'DELIVERY MAN',
+		'MERCHANT',
+		'ATTORNEY'
+	]
+}

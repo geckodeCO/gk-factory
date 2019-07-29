@@ -1,0 +1,20 @@
+exports.lnames = [
+	'SANCHEZ',
+	'ESCOBAR',
+	'GIRON',
+	'CANDAMIL',
+	'GONZALES',
+	'POSSO',
+	'MANRIQUE',
+	'MARTINEZ',
+	'ANGULO',
+	'VARGAS',
+	'RENTERIA',
+	'ANDRADE',
+	'RIVERA',
+	'BALANTA',
+	'CABRERA',
+	'RODRIGUEZ',
+	'MERCADO',
+	'CAICEDO'
+]
